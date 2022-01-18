@@ -15,4 +15,10 @@ $lang['Delete images in GThumb+ cache.'] = 'Delete images in GThumb+ cache.';
 $lang['Finds images that have not been cached and creates the cached version.'] = 'Finds images that have not been cached and creates the cached version.';
 $lang['Show thumbnails caption'] = 'Show thumbnails caption';
 $lang['Show rating score in caption'] = 'Show rating score in caption';
+$lang['Errors'] = 'Errors'; 
+$lang['Loaded'] = 'Loaded'; 
+$lang['Remaining'] = 'Remaining'; 
+$lang['Start'] = 'Start'; 
+$lang['Pause'] = 'Pause'; 
+$lang['Stop'] = 'Stop';
 ?>
