@@ -78,15 +78,15 @@
 <p>
 <table>
 	<tr>
-		<td>Errors</td>
+		<td>{'Errors'|@translate}</td>
 		<td id="errors">0</td>
 	</tr>
 	<tr>
-		<td>Loaded</td>
+		<td>{'Loaded'|@translate}</td>
 		<td id="loaded">0</td>
 	</tr>
 	<tr>
-		<td>Remaining</td>
+		<td>{'Remaining'|@translate}</td>
 		<td id="remaining">0</td>
 	</tr>
 </table>
