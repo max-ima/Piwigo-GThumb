@@ -20,3 +20,10 @@ $lang['Show thumbnails caption'] = 'Prikaži napis sličic';
 $lang['Thumbnails max height'] = 'Največja višina sličic mora biti celo število';
 $lang['%d file'] = '%d datoteka';
 $lang['%d files'] = '%d datoteke';
+$lang['Errors'] = 'Napake'; 
+$lang['Loaded'] = 'Naloženo'; 
+$lang['Remaining'] = 'Preostalo'; 
+$lang['Start'] = 'Začetek'; 
+$lang['Pause'] = 'Premor'; 
+$lang['Stop'] = 'Zaustavi';
+?>
